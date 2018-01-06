@@ -1,3 +1,7 @@
 This is C file
+<<<<<<< HEAD
 
 Content added in Master branch
+=======
+Added the content in mybrach
+>>>>>>> mybranch
