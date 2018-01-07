@@ -1,8 +1,0 @@
-Pull Request Demo 
-A file
-
-<<<<<<< HEAD
-Added some content by myBranch1
-=======
-Content added by myBranch2
->>>>>>> myBranch2
