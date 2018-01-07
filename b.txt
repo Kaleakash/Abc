@@ -1,3 +1,6 @@
 B file
 
 Added some content by myBranch 
+
+
+Contend Added by the myBranch3 and push the content without merge
