@@ -3,14 +3,9 @@ Hello
 How r you
 
 Added some content but incomplete 
-<<<<<<< HEAD
-=======
-
 
 Added content by Branch A
-<<<<<<< HEAD
->>>>>>> Added content by A Branch
-=======
+		Added content by A Branch
 
 Added content by Branch B
->>>>>>> Content added by B Branch
+Content added by B Branch
